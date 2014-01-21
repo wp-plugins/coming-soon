@@ -171,6 +171,10 @@ class SEED_CSP4{
             return false;
         }
 
+        // Check if user is logged in.
+        if(is_user_logged_in()){
+            return false;
+        }
 
 
         // Finally check if we should show the coming soon page.
