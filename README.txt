@@ -16,15 +16,53 @@ Create simple Coming Soon and Maintenance Mode pages. Work on your site while vi
 
 ### Benefits, Features and Options:
 	
-	*   Works with any WordPress Theme
-	*   Responsive
-	*   Customize the Look and Feel
-	*   Easily add Custom CSS and HTML
-	*   Uses HTML5 &amp; CSS3
-	*   Translation Ready, i18n Support
-	*   Multisite Support
-	*   BuddyPress Support
-	* 	Uses WordPress Best Practices
+*   Works with any WordPress Theme
+*   Responsive
+*   Customize the Look and Feel
+*   Easily add Custom CSS and HTML
+*   Uses HTML5 &amp; CSS3
+*   Translation Ready, i18n Support
+*   Multisite Support
+*   BuddyPress Support
+* 	Uses WordPress Best Practices
+
+### Pro Version Features:
+
+*	Works with any WordPress theme
+*	Visible only to non logged in users
+*	Secret link for your clients to view the upcoming website without logging in
+*	Search Engine Optimized with customizable meta tags
+*	Mobile Ready responsive design and layout
+*	Maintenance Mode with Automatic Screenshot
+*	Custom Look & Feel with no coding
+*	Integrated Google and Typekit fonts
+*	Full Browser Backgrounds option
+*	Option to capture first and last name
+*	Videos can be embedded in the description just be entering the URL
+*	Display an Incentive after Sign Up
+*	Social Profiles & Social Sharing Buttons
+*	MailChimp, AWeber, Get Response, Constant Contact and Campaign Monitor integration
+*	Gravity Forms integration to collect info from visitors
+*	Built-in referral system to keep track referrered subscribers and how many of those convert
+*	Store Emails in the WordPress Database to export to any email service
+*	Progress bar with automatic completion calculation
+*	Google Analytics Support
+*	Automatic Easy Updates
+*	Shortcode Support
+*	Option to enable template responsiveness
+*	Option to control access by IP
+*	Custom Footer Branding
+*	Custom Favicon
+*	Custom CSS Support
+*	Import/Export Settings for backup or re-use purposes
+*	Multisite Support
+*	HTML5 & CSS3 which degrades gracefully for older browsers
+*	Translation Ready i18n Support
+*	Option to exclude specific URLs from displaying Coming Soon page
+*	Plus lots more...
+
+*   [Upgrade to the Pro Version Now!&raquo;](http://www.seedprod.com/?utm_source=wordpress.org&utm_medium=link&utm_campaign=coming-soon-from-wordpress.org)
+
 
 == Installation ==
 
@@ -67,10 +105,10 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 == Changelog ==
 
-= 1.0 =
+= 4.0.0 =
 * Initial Commit
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 4.0.0 =
 Initial Commit
