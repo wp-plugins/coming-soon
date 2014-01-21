@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: seedprod, johnnytee
 Donate link: http://www.seedprod.com
-Tags: comments, spam
+Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
 Tested up to: 3.8.0
 Stable tag: 4.0.0
