@@ -184,6 +184,7 @@ function seed_csp4_get_options(){
     $seed_csp4_options[ ] = array(
         "type" => "upload",
         "id" => "bg_image",
+        "desc" => "<a href='http://demo.seedprod.com/coming-soon-pro/?utm_source=coming-soon-plugin&utm_medium=link&utm_campaign=Free%20Backgrounds' target='_blank'>Looking for FREE backgrounds?</a>",
         "label" => __( "Background Image", 'coming-soon' ),  
     );
 
