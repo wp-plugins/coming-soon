@@ -3,7 +3,7 @@ Contributors: seedprod, johnnytee
 Donate link: http://www.seedprod.com
 Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
-Tested up to: 3.8.1
+Tested up to: 3.9.0
 Stable tag: 4.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
