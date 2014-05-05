@@ -3,7 +3,7 @@
  * Plugin Name:       Coming Soon
  * Plugin URI:        http://www.seedprod.com
  * Description:       Coming Soon, Maintenance Mode pages in minutes
- * Version:           4.0.2
+ * Version:           4.0.3
  * Author:            SeedProd
  * Author URI:        http://www.seedprod.com
  * Text Domain:       coming-soon

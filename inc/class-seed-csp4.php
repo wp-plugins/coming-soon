@@ -172,8 +172,10 @@ class SEED_CSP4{
         }
 
         // Check if user is logged in.
-        if(is_user_logged_in()){
-            return false;
+        if($is_preview === false){
+            if(is_user_logged_in()){
+                return false;
+            }
         }
 
 
