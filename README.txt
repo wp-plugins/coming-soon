@@ -8,14 +8,14 @@ Stable tag: 4.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Coming Soon and Maintenance Mode pages in minutes. 
+Coming Soon and Maintenance Mode pages in minutes.
 
 == Description ==
 
 Create simple Coming Soon and Maintenance Mode pages. Work on your site while visitors see a "Coming Soon" or "Maintenance Mode" page.
 
 ### Benefits, Features and Options:
-	
+
 *   Works with any WordPress Theme
 *   Responsive
 *   Customize the Look and Feel
@@ -104,6 +104,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 4.1.0=
+*  Added pt_BR translation
+
 = 4.0.3=
 * Fixed preview link
 
