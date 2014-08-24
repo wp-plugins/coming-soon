@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name:       Coming Soon
+ * Plugin Name:       Coming Soon & Maintenance Mode by SeedProd
  * Plugin URI:        http://www.seedprod.com
- * Description:       Coming Soon, Maintenance Mode pages in minutes
+ * Description:       The #1 Coming Soon, Under Construction & Maintenance Mode plugin for WordPress.
  * Version:           4.0.3
  * Author:            SeedProd
  * Author URI:        http://www.seedprod.com
