@@ -8,7 +8,7 @@ Stable tag: 4.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Coming Soon and Maintenance Mode pages in minutes.
+The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress.
 
 == Description ==
 
