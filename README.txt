@@ -3,7 +3,7 @@ Contributors: seedprod, johnnytee
 Donate link: http://www.seedprod.com
 Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
-Tested up to: 3.9.0
+Tested up to: 4.1.0
 Stable tag: 4.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,6 +13,10 @@ The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPr
 == Description ==
 
 Create simple Coming Soon and Maintenance Mode pages. Work on your site while visitors see a "Coming Soon" or "Maintenance Mode" page.
+
+*   [Upgrade to the Coming Soon Pro Version Now!&raquo;](http://www.seedprod.com?utm_source=wordpress.org&utm_medium=link&utm_campaign=coming-soon-pro-from-wordpress.org)
+*   [View a Coming Soon Live Demo &raquo;](http://demo.seedprod.com/coming-soon-pro/ "SeedProd Demo")
+*   [Read Reviews &raquo;](http://www.seedprod.com/testimonials/ "Ultimate Coming Soon Page WordPress Plugin")
 
 ### Benefits, Features and Options:
 
@@ -104,8 +108,8 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
-= 4.1.0=
-*  Added pt_BR translation
+= 4.0.4 =
+*  Added launch course and 4.1.0 compatibility
 
 = 4.0.3=
 * Fixed preview link
@@ -120,6 +124,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 4.0.4 =
+*  Added launch course and 4.1.0 compatibility
+
 = 4.0.3=
 * Fixed preview link
 
