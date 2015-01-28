@@ -230,12 +230,12 @@ class SEED_CSP4_ADMIN
                             do_action( 'seed_csp4_render_page', array('tab'=>$_GET['tab']));
                     ?>
                     <form action="options.php" method="post">
-                    <p>
+
                     <!-- <input name="submit" type="submit" value="<?php _e( 'Save All Changes', 'coming-soon' ); ?>" class="button-primary"/> -->
                     <?php if(!empty($_GET['tab']) && $_GET['tab'] != 'seed_csp4_tab_3') { ?>
                     <!-- <input id="reset" name="reset" type="submit" value="<?php _e( 'Reset Settings', 'coming-soon' ); ?>" class="button-secondary"/>     -->
                     <?php } ?>
-                    </p>
+
                             <?php
                             $show_submit = false;
                             foreach ( seed_csp4_get_options() as $v ) {
@@ -295,15 +295,15 @@ class SEED_CSP4_ADMIN
                             <br><br> -->
                             <div class="postbox support-postbox" style="background-color: #fcf8e3">
                                 <div class="handlediv" title="Click to toggle"><br /></div>
-                                <h3 class="hndle"><span><?php _e('Plugin Support', 'ultimate-coming-soon-page') ?></span></h3>
+                                <h3 class="hndle"><span><?php _e('Plugin Support', 'coming-soon') ?></span></h3>
                                 <div class="inside">
                                     <div class="support-widget">
                                         <p>
                                             <?php _e('Got a Question, Idea, Problem or Praise?') ?>
                                         </p>
                                         <ul>
-                                            <li>&raquo; <a href="https://wordpress.org/support/plugin/ultimate-coming-soon-page" target="_blank"><?php _e('Support Request', 'ultimate-coming-soon-page') ?></a></li>
-                                            <li>&raquo; <a href="http://support.seedprod.com/article/83-how-to-clear-wp-super-caches-cache" target="_blank"><?php _e('Common Caching Issues Resolutions', 'ultimate-coming-soon-page') ?></a></li>
+                                            <li>&raquo; <a href="https://wordpress.org/support/plugin/coming-soon" target="_blank"><?php _e('Support Request', 'coming-soon') ?></a></li>
+                                            <li>&raquo; <a href="http://support.seedprod.com/article/83-how-to-clear-wp-super-caches-cache" target="_blank"><?php _e('Common Caching Issues Resolutions', 'coming-soon') ?></a></li>
                                         </ul>
 
                                     </div>
@@ -312,17 +312,17 @@ class SEED_CSP4_ADMIN
                             <?php if($this->plugin_type != 'pro'){ ?>
                                 <div class="postbox like-postbox" style="background-color:#dff0d8">
                                     <div class="handlediv" title="Click to toggle"><br /></div>
-                                    <h3 class="hndle"><span><?php _e('Show Some Love', 'ultimate-coming-soon-page') ?></span></h3>
+                                    <h3 class="hndle"><span><?php _e('Show Some Love', 'coming-soon') ?></span></h3>
                                     <div class="inside">
                                         <div class="like-widget">
-                                            <p><?php _e('Like this plugin? Show your support by:', 'ultimate-coming-soon-page')?></p>
+                                            <p><?php _e('Like this plugin? Show your support by:', 'coming-soon')?></p>
                                             <ul>
-                                                <li>&raquo; <a target="_blank" href="https://www.seedprod.com?utm_source=plugin&utm_medium=banner&utm_campaign=coming-soon-pro-in-plugin-banner"><?php _e('Buy It', 'ultimate-coming-soon-page') ?></a></li>
+                                                <li>&raquo; <a target="_blank" href="http://www.seedprod.com/features/?utm_source=coming-soon-plugin&utm_medium=banner&utm_campaign=coming-soon-link-in-plugin"><?php _e('Buy It', 'coming-soon') ?></a></li>
 
-                                                <li>&raquo; <a target="_blank" href="https://wordpress.org/support/view/plugin-reviews/ultimate-coming-soon-page?rate=5#postform"><?php _e('Rate It', 'ultimate-coming-soon-page') ?></a></li>
-                                                <li>&raquo; <a target="_blank" href="<?php echo "http://twitter.com/share?url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fultimate-coming-soon-page%2F&text=Check out this awesome %23WordPress Plugin I'm using, 'Ultimate Coming Soon Page' by SeedProd"; ?>"><?php _e('Tweet It', 'ultimate-coming-soon-page') ?></a></li>
+                                                <li>&raquo; <a target="_blank" href="https://wordpress.org/support/view/plugin-reviews/coming-soon?rate=5#postform"><?php _e('Rate It', 'coming-soon') ?></a></li>
+                                                <li>&raquo; <a target="_blank" href="<?php echo "http://twitter.com/share?url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fultimate-coming-soon-page%2F&text=Check out this awesome %23WordPress Plugin I'm using, Coming Soon Page and Maintenance Mode by SeedProd"; ?>"><?php _e('Tweet It', 'coming-soon') ?></a></li>
 
-                                                <li>&raquo; <a href="https://www.seedprod.com/submit-site/"><?php _e('Submit your site to the Showcase', 'ultimate-coming-soon-page') ?></a></li>
+                                                <li>&raquo; <a href="https://www.seedprod.com/submit-site/"><?php _e('Submit your site to the Showcase', 'coming-soon') ?></a></li>
 
                                             </ul>
                                         </div>
