@@ -176,7 +176,7 @@ class SEED_CSP4_ADMIN
             }
             echo '<a class="nav-tab seed_csp4-preview thickbox-preview" href="'.home_url().'?cs_preview=true&TB_iframe=true&width=640&height=632" title="'.__('&larr; Close Window','coming-soon').'">'.__('Live Preview','coming-soon').'</a>';
             if(defined('SEED_CSP_API_KEY') === false){
-                echo '<a class="nav-tab seed_csp4-support" style="color: #8a6d3b;background-color: #fcf8e3;float:right" href="http://www.seedprod.com/features/?utm_source=coming-soon-plugin&utm_medium=banner&utm_campaign=coming-soon-link-in-plugin" target="_blank"><i class="fa fa-star"></i> '.__('Upgrade to the Pro Version','coming-soon').'</a>';
+                echo '<a class="nav-tab seed_csp4-support" style="color: #8a6d3b;background-color: #fcf8e3;" href="http://www.seedprod.com/features/?utm_source=coming-soon-plugin&utm_medium=banner&utm_campaign=coming-soon-link-in-plugin" target="_blank"><i class="fa fa-star"></i> '.__('Upgrade to Pro for more Professional Features','coming-soon').'</a>';
             }
             echo '</h2>';
 
