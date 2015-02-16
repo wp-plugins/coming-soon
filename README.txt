@@ -4,7 +4,7 @@ Donate link: http://www.seedprod.com
 Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
 Tested up to: 4.1.0
-Stable tag: 4.0.4
+Stable tag: 4.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -108,6 +108,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 
 
 == Changelog ==
+= 4.1.0 =
+*  Exclude default urls terms: login, admin, dashboard and account. Also provided a way to disable this behavior.
+
 = 4.0.4 =
 *  Added launch course and WordPress 4.1.0 compatibility
 
@@ -124,6 +127,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 4.1.0 =
+*  Exclude default urls terms: login, admin, dashboard and account. Also provided a way to disable this behavior.
+
 = 4.0.4 =
 *  Added launch course and 4.1.0 compatibility
 

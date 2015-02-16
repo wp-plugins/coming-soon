@@ -361,6 +361,17 @@ function seed_csp4_get_options(){
     );
 
     $seed_csp4_options[ ] = array(
+        "type" => "checkbox",
+        "id" => "disable_default_excluded_urls",
+        "label" => __( "Disable Default Excluded URLs", 'coming-soon' ),
+        "desc" => __("By default we exclude urls with the terms: login, admin, dashboard and account to prevent lockouts. Check to disable.", 'coming-soon'),
+        "option_values" => array(
+             '1' => __( 'Disable', 'coming-soon' ),
+        ),
+        "default" => "1",
+    );
+
+    $seed_csp4_options[ ] = array(
         "type" => "textarea",
         "id" => "header_scripts",
         "label" => __( "Header Scripts", 'coming-soon' ),
