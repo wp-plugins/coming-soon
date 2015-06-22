@@ -69,7 +69,7 @@ Create simple Coming Soon and Maintenance Mode pages. Work on your site while vi
 
 **Included Translations:**
 
-* Danish(da_DK) by Alexander Leo-Hansen
+* Danish(da_DK) by [Alexander Leo-Hansen](http://alexanderleohansen.dk/)
 * Estonian(pt_BR) by [mauro.mascarenhas](https://wordpress.org/support/profile/mauromascarenhas)
 * Swedish(sv_SE) by [mepmepmep](https://wordpress.org/support/profile/mepmepmep)
 
