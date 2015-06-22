@@ -4,7 +4,7 @@ Donate link: http://www.seedprod.com
 Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
 Tested up to: 4.2.2
-Stable tag: 4.1.3
+Stable tag: 4.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,7 @@ Create simple Coming Soon and Maintenance Mode pages. Work on your site while vi
 
 **Included Translations:**
 
+* Danish(da_DK) by Alexander Leo-Hansen
 * Estonian(pt_BR) by [mauro.mascarenhas](https://wordpress.org/support/profile/mauromascarenhas)
 * Swedish(sv_SE) by [mepmepmep](https://wordpress.org/support/profile/mepmepmep)
 
@@ -112,6 +113,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 4. Design Page
 
 == Changelog ==
+= 4.1.4 =
+* Added Danish Translation
+
 = 4.1.3 =
 *  Added Swedish Translation
 
@@ -140,6 +144,9 @@ This is always a caching issue. Go to the caching plugin's setting page and clea
 * Initial Commit
 
 == Upgrade Notice ==
+= 4.1.4 =
+* Added Danish Translation
+
 = 4.1.3 =
 *  Added Swedish Translation
 
