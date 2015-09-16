@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: seedprod, johnnytee
+Contributors: seedprod
 Donate link: http://www.seedprod.com
 Tags: wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page
 Requires at least: 3.5.1
